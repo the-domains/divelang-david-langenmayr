@@ -4,9 +4,11 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: I am just finishing up my work at Kodaikanal International School. and moving on to Chongqing China.
-datePublished: '2016-05-25T10:17:58.852Z'
-dateModified: '2016-05-25T10:17:57.596Z'
+description: >-
+  I am just finishing up my work at Kodaikanal International School. and moving
+  on to Chongqing China.
+datePublished: '2016-06-14T18:31:05.077Z'
+dateModified: '2016-06-14T18:30:59.563Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-17-happenigs.md
