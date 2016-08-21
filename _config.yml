@@ -1,19 +1,4 @@
-name: diveLang (David langenmayr)
-favicon: null
-layout_spectrum: 0.07602
 typography_spectrum: 0.34010738390497863
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5672436838503927
   saturation: 0.22425005678087473
   rhythmicContrast: 0.2603024032432586
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.07602
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: diveLang (David langenmayr)
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ' lanoitanretnI'
 purpose: []
